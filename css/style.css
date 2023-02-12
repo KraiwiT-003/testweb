@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Calibri';
+}
+
+a {
+    text-decoration: none;
+    list-style-type: none;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    margin: 5px 0;
+}
+
+.justify-content-center {
+    justify-content: center;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.d-flex {
+    display: flex;
+}
+
+.container {
+    width: 1000px;
+}
+
+.bg-white {
+    background: #fff!important;
+}
+.bg-primary {
+    background: #0090f0!important;
+}
+.bg-danger {
+    background: #fff!important;
+}
+.bg-success {
+    background: #fff!important;
+}
+.bg-warning {
+    background: #ffc717!important;
+}
